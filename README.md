@@ -1,2 +1,2 @@
 # chatbot
-llm based chatbot run on live server
+Voice-enabled AI chatbot with Google Gemini
